@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\bin\Debug\Math_function_graph_generator.exe.config
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\bin\Debug\Math_function_graph_generator.exe
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\bin\Debug\Math_function_graph_generator.pdb
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.Form1.resources
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.Properties.Resources.resources
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.exe
+C:\Users\1\Desktop\Math_function_graph_generator\Math_function_graph_generator\obj\Debug\Math_function_graph_generator.pdb
